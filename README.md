@@ -29,7 +29,7 @@ pip install -r requirements.txt
 streamlit run model.py
 ```
 
-## For Run
+## For Run Selenium Version
 
 ```bash
 
